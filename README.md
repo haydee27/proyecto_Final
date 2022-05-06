@@ -1,2 +1,2 @@
-# proyecto_Final
-EjercicioSemana6Grupal
+# demo_crud
+semana6 Ejercicio Grupal
